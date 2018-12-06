@@ -2,11 +2,9 @@
 
 Simple Camera Url (Crawler)
 
-#Dependencies
+### Dependencies
 pip install requests
 pip install BeautifulSoup
 
-#Usage
+###  Usage
 python camera_urls_collector.py
-
-#TODO
