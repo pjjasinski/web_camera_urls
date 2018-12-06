@@ -1,14 +1,12 @@
-# web_camera_urls
+## web_camera_urls
 
 Simple Camera Url (Crawler)
 
-requires:
-requests - http://docs.python-requests.org/en/master/
-BeautifulSoup - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+#Dependencies:
+pip install requests
+pip install BeautifulSoup
 
 #Usage:
-1.Create function module
-2.Import and register function in collector
-3.Test collector (its just print cameras names and urls)
+python camera_urls_collector.py
 
-#TODO
+#TODO:
