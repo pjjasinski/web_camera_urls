@@ -1,4 +1,4 @@
 django
 djangorestframework
 requests
-BeautifulSoup
+beautifulsoup4
